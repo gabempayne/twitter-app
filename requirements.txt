@@ -1,0 +1,4 @@
+image==1.5.3
+Pillow==3.3.0
+tqdm==3.4.0
+tweepy==3.5.0
